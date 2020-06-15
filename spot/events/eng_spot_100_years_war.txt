@@ -1,0 +1,20 @@
+namespace = spot_eng_100_years_war
+
+country_event = {
+	id = spot_eng_100_years_war.1
+        title = "spot_eng_100_years_war_1_title"
+	desc = "spot_eng_100_years_war_1_desc"
+	picture = SIEGE_eventPicture
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = ENG
+	}
+
+	option = {
+		name = "spot_eng_100_years_war.a"
+		add_treasury = 500
+		add_manpower = 5
+	}
+}
