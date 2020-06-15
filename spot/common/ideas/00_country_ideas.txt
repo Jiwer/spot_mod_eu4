@@ -125,12 +125,12 @@ ENG_ideas = {
 
 GBR_ideas = {
 	start = {
-		infantry_power = 0.1
-		heavy_ship_power = 0.10
+		naval_morale = .1
+		heavy_ship_power = 0.1
 	}
 
 	bonus = {
-		navy_tradition = 1
+		infantry_power = 0.1
 	}
 	
 	trigger = {
@@ -478,8 +478,7 @@ FRA_ideas = {
 		global_tax_modifier = 0.1
 	}
 	native_trading_principles = {
-		native_uprising_chance = -0.5
-		native_assimilation = 0.5
+		galley_power = 0.1
 	}
 	vauban_fortifications = {
 		fort_maintenance_modifier = -0.2
