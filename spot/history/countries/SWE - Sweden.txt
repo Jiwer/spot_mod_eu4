@@ -24,8 +24,8 @@ change_estate_land_share = {
 		dynasty = "Bonde"
 		birth_date = 1429.10.5
 		adm = 3
-		dip = 3
-		mil = 4
+		dip = 2
+		mil = 5
 	}
 }
 
