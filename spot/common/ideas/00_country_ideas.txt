@@ -125,7 +125,7 @@ ENG_ideas = {
 
 GBR_ideas = {
 	start = {
-		naval_morale = .1
+		naval_morale = 0.1
 		heavy_ship_power = 0.1
 	}
 
