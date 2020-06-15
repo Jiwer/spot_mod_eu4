@@ -1572,7 +1572,7 @@ SIC_ideas = {
 		possible_policy = 1
 	}
 	sic_noble_admirals = {
-		navy_tradition = 1
+		infantry_power = 0.1
 	}
 	sic_greater_sicily = {
 		core_creation = -0.1
