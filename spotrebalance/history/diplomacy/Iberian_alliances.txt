@@ -1,9 +1,17 @@
-# Spot aragon and castile
+# Spot aragon and castille
 union =  {
 	first = CAS
 	second = ARA
 	start_date = 1444.1.1
 	end_date = 1448.6.20
+}
+
+# Spot castille nav vassal
+vassal = {
+	first = CAS
+	second = NAV
+	start_date = 1444.1.1
+	end_date = 1532.8.3
 }
 
 # Navarra under John II of Aragon
