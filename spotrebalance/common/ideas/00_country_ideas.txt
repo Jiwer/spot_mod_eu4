@@ -408,6 +408,7 @@ NED_ideas = {
 	}
 	platoon_fire = {
 		fire_damage = 0.1
+		discipline = 0.03
 	}
 }
 
