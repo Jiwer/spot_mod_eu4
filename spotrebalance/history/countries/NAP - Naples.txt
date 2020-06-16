@@ -6,16 +6,6 @@ primary_culture = neapolitan
 capital = 121 # Napoli
 
 1399.1.1 = {
-	monarch = { 
-		name = "Louis II"
-		dynasty = "de Valois"
-		adm = 0
-		dip = 2
-		mil = 2
-	}
-}
-
-1399.1.1 = {
 	heir = {
 		name = "Ladislao"
 		monarch_name = "Ladislao I"
@@ -65,24 +55,11 @@ capital = 121 # Napoli
 	}
 }
 
-1414.1.1 = {
-	heir = {
-		name = "Renato"
-		monarch_name = "Renato I"
-		dynasty = "d'Este"
-		birth_date = 1409.1.16
-		death_date = 1480.7.10
-		claim = 95
-		adm = 2
-		mil = 2
-		dip = 2
-	}
-}
-
 1435.2.3 = {
 	monarch = { 
-		name = "Renato I"
-		dynasty = "d'Este"
+		name = "Renato"
+		dynasty = "Rangoni"
+		birth_date = 1386.1.16
 		dip = 2
 		mil = 3
 		adm = 3

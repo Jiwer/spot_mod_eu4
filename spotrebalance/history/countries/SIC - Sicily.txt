@@ -7,10 +7,11 @@ capital = 125	# Palermo
 historical_rival = PAP
 
 
-1377.1.28 = {
+1442.1.28 = {
 	monarch = { 
 		name = "Maria I"
 		dynasty = "d'Aragó"
+		birth_date = 1390.6.7
 		dip = 3
 		mil = 4
 		adm = 2
