@@ -618,14 +618,14 @@ france_expand_south = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
 				}
-				add_core = ROOT
+				add_permanent_claim = ROOT
 			}
 			bourgogne_area = {
 				limit = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
 				}
-				add_core = ROOT
+				add_permanent_claim = ROOT
 			}
 		}
 	}
