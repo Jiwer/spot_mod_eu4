@@ -4,6 +4,7 @@ government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = dutch
+elector = yes
 capital = 4383 #Haag
 
 1389.1.1 = {
@@ -52,14 +53,13 @@ capital = 4383 #Haag
 	}
 }
 
-1417.5.31 = {
+1444.1.31 = {
 	monarch = {
-		name = "Jacoba"
-		dynasty = "von Wittelsbach"
+		name = "Arnold"
+		dynasty = "van Lotharingen"
 		adm = 2
-		dip = 1
-		mil = 1
-		female = yes
+		dip = 2
+		mil = 3
 	}
 }
 

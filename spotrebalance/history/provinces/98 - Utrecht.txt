@@ -1,7 +1,8 @@
 # 98 Utrecht - Principal cities: Utrecht
 
-owner = UTR
-controller = UTR 
+owner = HOL
+controller = HOL 
+add_core = HOL
 capital = "Utrecht"
 is_city = yes
 culture = dutch
