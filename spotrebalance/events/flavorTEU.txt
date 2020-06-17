@@ -17,8 +17,6 @@ country_event = {
 		is_year = 1460
 		NOT = { is_year = 1500 }
 		tag = TEU
-		NOT = { has_country_flag = pru_confederation_curtailed }
-		NOT = { has_estate_privilege = estate_burghers_prussian_confederation }
 		has_country_flag = pru_confederation_flag
 		is_subject = no
 		exists = POL
@@ -26,8 +24,6 @@ country_event = {
 		is_at_war = no
 		NOT = { alliance_with = POL }
 		POL = { is_subject = no }
-		POL = { num_of_cities = 10 }
-		num_of_cities = 5
 		OR = {
 			NOT = { exists = DNZ }
 			DNZ = {
@@ -40,14 +36,6 @@ country_event = {
 				controls = 43
 			}
 			DNZ = { owns = 43 controls = 43 }
-		}
-	}
-	
-	mean_time_to_happen = {
-		months = 6
-		modifier = {
-			factor = 0.1
-			is_year = 1466
 		}
 	}
 	
@@ -235,21 +223,6 @@ country_event = {
 			}
 		}
 	}
-	option = { # Let them go
-		name = "flavor_teu.1.b"
-		ai_chance = { 
-			factor = 100 
-			modifier = {
-				factor = 0
-				OR = {
-					is_bankrupt = no
-					NOT = { war_exhaustion = 10 }
-				}
-			}
-		}
-		add_stability = -1
-		add_prestige = -20
-	}
 }
 
 # Prussian Confederation seeks Polish support
@@ -360,10 +333,6 @@ country_event = {
 			is_year = 1450
 		}
 		NOT = { has_country_flag = pru_confederation_flag }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
 	}
 	
 	option = {
