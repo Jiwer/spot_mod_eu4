@@ -45,13 +45,17 @@ country_decisions = {
 						owns_core_province = 101	
 						owns_core_province = 104	
 						owns_core_province = 116	
-						owns_core_province = 118	
+						owns_core_province = 118
+						owns_core_province = 121
+						owns_core_province = 1933
 					}
 				}
 				province_id = 101	# Genoa
 				province_id = 104	# Milan
 				province_id = 116	# Firenze
 				province_id = 118	# Roma
+				province_id = 121	# Napoli
+				province_id = 1933	# Bari
 			}
 			OR = {
 				NOT = { owned_by = ROOT }
