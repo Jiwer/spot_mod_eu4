@@ -1702,6 +1702,7 @@ country_event = {
 		ai_chance = { 
 			factor = 25
 		}
+		set_country_flag = spot_localnoble
 		define_ruler = {
 			DIP = 6
 			ADM = 6
