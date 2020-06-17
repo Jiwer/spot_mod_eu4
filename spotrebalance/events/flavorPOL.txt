@@ -1715,12 +1715,12 @@ country_event = {
 			}
 			change_statists_vs_orangists = 1
 		}
-		LIT = {
-			add_opinion = {
-				who = ROOT
-				modifier = lit_denied_birthright
-			}
-		}
+		#LIT = {
+		#	add_opinion = {
+		#		who = ROOT
+		#		modifier = lit_denied_birthright
+		#	}
+		#}
 	}
 }
 
