@@ -63,6 +63,31 @@ gc_morocco_1 = {
 		}
 		
 		effect = {
+			if = {
+				limit = {
+					1127 = {
+						is_empty = yes
+					}
+				}
+				1127 = {
+					add_core = ROOT
+					cede_province = ROOT
+				}
+			}
+			western_sahara_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				discover_country = ROOT	
+				add_permanent_claim = ROOT
+			}
+			niger_bend_area = {
+				discover_country = ROOT			
+			}	
+			baghena_area = {
+				discover_country = ROOT			
+			}			
 			country_event = {
 				id = flavor_mor.12
 			}
