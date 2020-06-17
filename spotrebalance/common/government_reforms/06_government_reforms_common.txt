@@ -105,6 +105,7 @@ permanent_marathas_council_reform = {
 	}
 	modifiers = {
 		leader_land_shock = 1
+		discipline = 0.05
 		maratha_influence_modifier = 0.1
 		maratha_loyalty_modifier = 0.05
 		nobles_influence_modifier = -0.1
