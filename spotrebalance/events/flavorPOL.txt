@@ -1703,12 +1703,9 @@ country_event = {
 			factor = 25
 		}
 		define_ruler = {
-			DIP = 3
-			ADM = 3
-			MIL = 3
-			max_random_adm = 5
-			max_random_dip = 5
-			max_random_mil = 5
+			DIP = 6
+			ADM = 6
+			MIL = 6
 			claim = 100
 			culture = polish
 		}
