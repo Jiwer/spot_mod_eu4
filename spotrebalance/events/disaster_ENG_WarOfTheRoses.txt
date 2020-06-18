@@ -35,6 +35,9 @@ country_event = {
 		set_country_flag = supports_house_of_lancaster
 
 		define_ruler = {
+			adm = 2
+			dip = 2
+			mil = 2
 			dynasty = Lancaster
 			age = 31
 		}
@@ -110,6 +113,9 @@ country_event = {
 		add_stability = -2
 		set_country_flag = supports_house_of_york
 		define_ruler = {
+			adm = 2
+			dip = 2
+			mil = 2
 			dynasty = York
 			age = 31
 		}
