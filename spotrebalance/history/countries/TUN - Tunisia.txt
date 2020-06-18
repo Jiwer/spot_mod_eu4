@@ -38,9 +38,9 @@ change_estate_land_share = {
 		birth_date = 1435.9.18
 		death_date = 1489.1.1
 		claim = 95
-		adm = 2
-		dip = 0
-		mil = 1
+		adm = 4
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -163,7 +163,8 @@ change_estate_land_share = {
 		mil = 2
 		leader = { 
 			name = "Ahmad III"	
-			type = general		
+			type = general	
+	
 			fire = 3	
 			shock = 2	
 			manuever = 3	
