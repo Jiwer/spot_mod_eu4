@@ -44,7 +44,7 @@ country_event = {
 	 }
 
 	mean_time_to_happen = {
-		months = 12
+		months = 3
 	}
 
 	option = {
@@ -55,13 +55,13 @@ country_event = {
 			loyalty = -20
 		}
 		define_ruler = {
+			ADM = 5
+			DIP = 4
+			MIL = 5
 			dynasty = ROOT
 			culture = ROOT
 			religion = ROOT
-			adm = 5
-			dip = 4
-			mil = 5
-			age = 32
+			age = 42
 			claim = 20
 		}
 		event_target:spot_tur_nobles = {
@@ -141,7 +141,7 @@ country_event = {
 	 }
 
 	mean_time_to_happen = {
-		months = 12
+		months = 3
 	}
 
 	option = {
@@ -152,12 +152,12 @@ country_event = {
 			loyalty = -20
 		}
 		define_ruler = {
+			ADM = 5
+			DIP = 5
+			MIL = 5
 			culture = ROOT
 			religion = ROOT
-			adm = 5
-			dip = 5
-			mil = 5
-			age = 34
+			age = 42
 			claim = 20
 		}
 		event_target:spot_pol_nobles = {
