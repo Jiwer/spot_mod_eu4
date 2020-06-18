@@ -45,15 +45,27 @@ change_estate_land_share = {
 	}
 }
 
-1420.1.1 = {
+1443.1.1 = {
 	monarch = {
 		name = "Abdalhaqq II"
 		dynasty = "Marinid"
+		birth_date = 1420.10.5
 		adm = 3
 		dip = 3
 		mil = 3
-	}
+	}	
 	capital = 343 # Fez
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Mohammed"
+		dynasty = "Marinid"
+		birth_date = 1437.2.22
+		adm = 4
+		dip = 2
+		mil = 4
+	}
 }
 
 1465.1.1 = {
