@@ -14,14 +14,13 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-		is_year = 1460
-		NOT = { is_year = 1500 }
+		is_year = 1450
+		NOT = { war_with = POL }
 		tag = TEU
 		has_country_flag = pru_confederation_flag
 		is_subject = no
 		exists = POL
 		is_neighbor_of = POL
-		is_at_war = no
 		NOT = { alliance_with = POL }
 		POL = { is_subject = no }
 		OR = {
@@ -42,117 +41,10 @@ country_event = {
 	immediate = {
 		hidden_effect = {
 			set_country_flag = pru_confederation_happened
-			# add cores to DNZ based on burgher land share
-			if = {
-				limit = {
-					estate_influence = {
-						estate = estate_burghers
-						influence = 40
-					}
-				}
-				random_owned_province = {
-					limit = {
-						is_capital = no
-						NOT = { is_core = DNZ }
-						OR = {
-							area = east_prussia_area
-							area = west_prussia_area
-						}
-						any_neighbor_province = {
-							is_core = DNZ
-						}
-					}
-					add_core = DNZ
-				}
-			}
-			if = {
-				limit = {
-					estate_influence = {
-						estate = estate_burghers
-						influence = 50
-					}
-				}
-				random_owned_province = {
-					limit = {
-						is_capital = no
-						NOT = { is_core = DNZ }
-						OR = {
-							area = east_prussia_area
-							area = west_prussia_area
-						}
-						any_neighbor_province = {
-							is_core = DNZ
-						}
-					}
-					add_core = DNZ
-				}
-			}
-			if = {
-				limit = {
-					estate_influence = {
-						estate = estate_burghers
-						influence = 60
-					}
-				}
-				random_owned_province = {
-					limit = {
-						is_capital = no
-						NOT = { is_core = DNZ }
-						OR = {
-							area = east_prussia_area
-							area = west_prussia_area
-						}
-						any_neighbor_province = {
-							is_core = DNZ
-						}
-					}
-					add_core = DNZ
-				}
-			}
-			if = {
-				limit = {
-					estate_influence = {
-						estate = estate_burghers
-						influence = 70
-					}
-				}
-				random_owned_province = {
-					limit = {
-						is_capital = no
-						NOT = { is_core = DNZ }
-						OR = {
-							area = east_prussia_area
-							area = west_prussia_area
-						}
-						any_neighbor_province = {
-							is_core = DNZ
-						}
-					}
-					add_core = DNZ
-				}
-			}
-			if = {
-				limit = {
-					estate_influence = {
-						estate = estate_burghers
-						influence = 80
-					}
-				}
-				random_owned_province = {
-					limit = {
-						is_capital = no
-						NOT = { is_core = DNZ }
-						OR = {
-							area = east_prussia_area
-							area = west_prussia_area
-						}
-						any_neighbor_province = {
-							is_core = DNZ
-						}
-					}
-					add_core = DNZ
-				}
-			}
+			
+			2997 = {add_core = DNZ}
+			1859 = {add_core = DNZ}
+
 			if = {
 				limit = {
 					NOT = {
