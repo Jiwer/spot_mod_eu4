@@ -31,21 +31,7 @@ change_estate_land_share = {
 	add_piety = 0.4
 }
 
-1399.1.1 = {
-	heir = {
-		name = "Abdalhaqq"
-		monarch_name = "Abdalhaqq II"
-		dynasty = "Marinid"
-		birth_date = 1399.1.1
-		death_Date = 1465.1.1
-		claim = 95
-		adm = 0
-		dip = 2
-		mil = 0
-	}
-}
-
-1443.1.1 = {
+1444.1.1 = {
 	monarch = {
 		name = "Abdalhaqq II"
 		dynasty = "Marinid"
@@ -59,9 +45,12 @@ change_estate_land_share = {
 
 1444.1.1 = {
 	heir = {
-		name = "Mohammed"
+		name = "Hassan"
+		monarch_name = "Marinid II"
 		dynasty = "Marinid"
 		birth_date = 1437.2.22
+		death_date = 1490.1.1
+		claim = 95
 		adm = 4
 		dip = 2
 		mil = 4
