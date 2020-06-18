@@ -296,6 +296,7 @@ categories =  {
 		supply_limit = 4
 		
 		terrain_override = {
+			197 # Roussillon
 			210	226 # Spain
 			139 1831 143 138 4175  #Balkans
 			158 1952 #Hungary
