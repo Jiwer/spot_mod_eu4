@@ -5,6 +5,7 @@ religion = catholic
 technology_group = eastern
 historical_friend = LIT
 historical_rival = TEU
+historical_rival = BOH
 capital = 262 # Krakow
 add_accepted_culture = ruthenian
 

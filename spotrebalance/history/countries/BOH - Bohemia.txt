@@ -5,6 +5,8 @@ religion = catholic
 elector = no
 capital = 266 # Praha
 technology_group = western
+historical_rival = POL
+historical_rival = HUN
 add_accepted_culture = sorbian
 add_army_professionalism = 0.1
 
