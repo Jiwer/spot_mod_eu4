@@ -192,6 +192,7 @@ courthouse = {
 		local_state_maintenance_modifier = -0.25
 		local_autonomy = -0.1
 		local_governing_cost = -0.25
+		allowed_num_of_buildings = 1
 	}
 
 	ai_will_do = {
