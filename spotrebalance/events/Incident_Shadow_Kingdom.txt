@@ -308,7 +308,6 @@ country_event = {
 					has_country_flag = reined_in_for_shadow_kingdom
 				}
 			}
-			custom_tooltip = shadow_kingdom_triggered_modifier_tt
 		}
 	}
 }
