@@ -1077,7 +1077,7 @@ will_leave_for_shadow_kingdom_trigger = {
 			}
 			has_opinion = {
 				who = emperor
-				value = 150
+				value = -200
 			}
 			is_subject_of = emperor
 			has_reform = free_city
