@@ -1662,30 +1662,10 @@ tr_siberia_missions = {
 	rus_alaskan_colony = {
 		icon = mission_colonize_alaska
 		required_missions = { tr_russian_colony_in_east_siberia }
-		provinces_to_highlight = {
-			colonial_region = colonial_alaska
-			NOT = {
-				country_or_non_sovereign_subject_holds = ROOT
-			}
-			has_discovered = ROOT
-		}
-		trigger = {
-			colonial_alaska = {
-				type = all
-				country_or_non_sovereign_subject_holds = ROOT
-			}
-		}
 		effect = {
 			add_country_modifier = {
 				name = "rus_alaska_modifier"
 				duration = 7300
-			}
-			2613 = {
-				change_province_name = "Novo-Arkhangelsk"
-				rename_capital = "Novo-Arkhangelsk"
-				add_base_tax = 1
-				add_base_production = 1
-				add_base_manpower = 1
 			}
 		}
 	}
