@@ -25,7 +25,7 @@ christian = {
 		}
 		country = {
 			tolerance_own = 1
-			tolerance_heretic = -1
+			discipline = 0.025
 		}
 		
 		country_as_secondary = {
