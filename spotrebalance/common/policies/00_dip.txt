@@ -784,10 +784,12 @@ terms_of_surrender_statute = {
 	monarch_power = DIP
 	
 	potential = {
+		has_idea_group = naval_ideas
 		has_idea_group = diplomatic_ideas
 	}
 	
 	allow = {
+		full_idea_group = naval_ideas
 		full_idea_group = diplomatic_ideas
 	}	
 	
@@ -803,10 +805,12 @@ skilled_cartographers = {
 	monarch_power = DIP
 	
 	potential = {
+		has_idea_group = naval_ideas
 		has_idea_group = exploration_ideas
 	}
 	
 	allow = {
+		full_idea_group = naval_ideas
 		full_idea_group = exploration_ideas
 	}	
 	
@@ -829,10 +833,12 @@ fortified_trading_posts = {
 	monarch_power = DIP
 	
 	potential = {
+		has_idea_group = naval_ideas
 		has_idea_group = trade_ideas
 	}
 	
 	allow = {
+		full_idea_group = naval_ideas
 		full_idea_group = trade_ideas
 	}	
 	
@@ -909,10 +915,12 @@ the_cooperation_act = {
 	monarch_power = DIP
 	
 	potential = {
+		has_idea_group = naval_ideas
 		has_idea_group = influence_ideas
 	}
 	
 	allow = {
+		full_idea_group = naval_ideas
 		full_idea_group = influence_ideas
 	}	
 	
@@ -1158,10 +1166,12 @@ the_naval_supremacy_act = {
 	monarch_power = DIP
 	
 	potential = {
+		has_idea_group = naval_ideas
 		has_idea_group = maritime_ideas
 	}
 	
 	allow = {
+		full_idea_group = naval_ideas
 		full_idea_group = maritime_ideas
 	}	
 	
