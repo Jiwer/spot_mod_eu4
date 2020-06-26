@@ -728,10 +728,6 @@ estate_vaisyas_build_a_fleet = {
 			factor = 0.5
 			NOT = { num_of_ports = 3 }
 		}
-		modifier = {
-			factor = 2
-			has_idea_group = naval_ideas
-		}
 	}
 	task_requirements = {
 		navy_size_percentage = 0.75

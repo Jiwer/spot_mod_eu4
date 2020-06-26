@@ -2902,19 +2902,6 @@ on_five_year_pulse = {
 		100 = ideagroups.1609
 		100 = ideagroups.1610
 
-		# Naval		11 (7g 4b)
-		100 = ideagroups.1700
-		100 = ideagroups.1701
-		100 = ideagroups.1702
-		100 = ideagroups.1703
-		100 = ideagroups.1704
-		100 = ideagroups.1705
-		100 = ideagroups.1706
-		100 = ideagroups.1707
-		100 = ideagroups.1708
-		100 = ideagroups.1709
-		100 = ideagroups.1710
-
 		# Influence		11 (7g 4b)
 		100 = ideagroups.1800
 		100 = ideagroups.1801

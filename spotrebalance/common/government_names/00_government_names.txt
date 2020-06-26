@@ -282,30 +282,6 @@ gov_prussian_republic = {
 	}
 }
 
-gov_admiralty = {
-	rank = {
-		1 = ADMIRALTY
-		2 = HIGH_ADMIRALTY
-		3 = SUPREME_ADMIRALTY
-	}
-	
-	ruler_male = {
-		1 = LORD_HIGH_ADMIRAL
-		2 = LORD_HIGH_ADMIRAL
-		3 = SUPREME_ADMIRAL
-	}
-	
-	ruler_female = {
-		1 = LORD_HIGH_ADMIRAL
-		2 = LORD_HIGH_ADMIRAL
-		3 = SUPREME_ADMIRAL
-	}
-	
-	trigger = {
-		has_reform = admiralty_reform
-	}
-}
-
 gov_english_commonwealth = {
 	rank = {
 		1 = COMMONWEALTH

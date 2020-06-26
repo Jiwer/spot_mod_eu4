@@ -12,7 +12,6 @@ historical_idea_groups = {
 	administrative_ideas
 	offensive_ideas
 	quality_ideas
-	naval_ideas
 }
 
 historical_units = {

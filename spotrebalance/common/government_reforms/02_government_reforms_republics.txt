@@ -1309,7 +1309,6 @@ lottery_reform = {
 				has_reform = dutch_republic
 				has_reform = presidential_despot_reform
 				has_reform = military_dictatorship_reform
-				has_reform = admiralty_reform
 				has_reform = prussian_republic
 			}
 		}
@@ -1836,31 +1835,6 @@ citizenry_reform = {
 	}
 	ai = {
 		factor = 1.5
-	}
-}
-
-admiralty_reform = {
-	icon = "admiralty_reform"
-	allow_normal_conversion = yes
-	# no legacy equivalent. own Dharama or Emperor
-	potential = {
-		is_revolutionary = no
-	}
-	trigger = {
-		full_idea_group = naval_ideas
-		NOT = { has_reform = pirate_republic_reform }
-	}
-	modifiers = {
-		leader_naval_fire = 1
-		republican_tradition = -0.5
-	}
-	custom_attributes = {
-		admirals_become_rulers = yes
-	}
-	has_term_election = no
-	
-	ai = {
-		factor = 0
 	}
 }
 

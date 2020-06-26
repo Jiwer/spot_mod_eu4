@@ -15,7 +15,6 @@ historical_idea_groups = {
 	administrative_ideas
 	aristocracy_ideas
 	expansion_ideas
-	naval_ideas 
 	trade_ideas 
 	quality_ideas
 	economic_ideas
