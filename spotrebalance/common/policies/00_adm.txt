@@ -975,12 +975,10 @@ the_transportation_act = {
 	monarch_power = ADM
 	
 	potential = {
-		has_idea_group = naval_ideas
 		has_idea_group = economic_ideas
 	}
 	
 	allow = {
-		full_idea_group = naval_ideas
 		full_idea_group = economic_ideas
 	}	
 	
@@ -1016,12 +1014,10 @@ harbour_administration = {
 	monarch_power = ADM
 	
 	potential = {
-		has_idea_group = naval_ideas
 		has_idea_group = administrative_ideas
 	}
 	
 	allow = {
-		full_idea_group = naval_ideas
 		full_idea_group = administrative_ideas
 	}
 
@@ -1057,12 +1053,10 @@ supply_convoys = {
 	monarch_power = ADM
 	
 	potential = {
-		has_idea_group = naval_ideas
 		has_idea_group = expansion_ideas
 	}
 	
 	allow = {
-		full_idea_group = naval_ideas
 		full_idea_group = expansion_ideas
 	}	
 	

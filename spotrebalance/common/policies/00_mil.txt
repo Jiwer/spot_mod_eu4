@@ -534,12 +534,10 @@ the_maritime_intelligencer_unit = {
 	monarch_power = MIL
 	
 	potential = {
-		has_idea_group = naval_ideas
 		has_idea_group = spy_ideas
 	}
 	
 	allow = {
-		full_idea_group = naval_ideas
 		full_idea_group = spy_ideas
 	}	
 	
@@ -559,12 +557,10 @@ the_nautic_education_act = {
 	monarch_power = MIL
 	
 	potential = {
-		has_idea_group = naval_ideas
 		has_idea_group = innovativeness_ideas
 	}
 	
 	allow = {
-		full_idea_group = naval_ideas
 		full_idea_group = innovativeness_ideas
 	}	
 	
@@ -588,12 +584,10 @@ zealous_captains = {
 	monarch_power = MIL
 	
 	potential = {
-		has_idea_group = naval_ideas
 		has_idea_group = religious_ideas
 	}
 	
 	allow = {
-		full_idea_group = naval_ideas
 		full_idea_group = religious_ideas
 	}	
 	
@@ -683,12 +677,10 @@ the_naval_inspection_act = {
 	
 	potential = {
 		has_idea_group = humanist_ideas
-		has_idea_group = naval_ideas
 	}
 	
 	allow = {
 		full_idea_group = humanist_ideas
-		full_idea_group = naval_ideas
 	}	
 	
 	ship_durability = 0.05
