@@ -319,13 +319,6 @@ gc_tunis_3 = {
 			num_of_light_ship = 5
 		}
 		effect = {
-			sicily_area = {
-				limit = {
-					NOT = { is_core = ROOT }
-					NOT = { is_permanent_claim = ROOT }
-				}
-				add_permanent_claim = ROOT
-			}
 			corsica_sardinia_area = {
 				limit = {
 					NOT = { is_core = ROOT }
