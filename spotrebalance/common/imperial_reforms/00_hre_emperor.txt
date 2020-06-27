@@ -43,9 +43,6 @@ emperor_reichsstabilitaet = {
 	province = {
 		local_state_maintenance_modifier = -0.25
 	}
-	on_effect = {
-		custom_tooltip = "EXPAND_EMPIRE_CB"
-	}
 }
 
 emperor_gemeinerpfennig = {
