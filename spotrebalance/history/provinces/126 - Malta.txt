@@ -12,6 +12,7 @@ base_manpower = 2
 capital = "Mdina" 
 is_city = yes
 add_core = SIC
+add_permanent_claim = NAP
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
