@@ -43,6 +43,8 @@ country_event = {
 			factor = 10000
 		}
 		name = shadow_kingdom.2.a
+		add_prestige = -10
+		add_imperial_influence = -20
 		custom_tooltip = shadow_kingdom_emperor_gives_up_tt
 		set_global_flag = italians_leave_hre
 		hidden_effect = {
