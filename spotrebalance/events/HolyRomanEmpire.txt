@@ -151,7 +151,7 @@ country_event = {
 	
 	option = {
 		name = "EVTOPTA900"
-		add_imperial_influence = 0
+		add_imperial_influence = 10
 		if = {
 			limit = { has_dlc = "Common Sense" }
 			random_country = {
