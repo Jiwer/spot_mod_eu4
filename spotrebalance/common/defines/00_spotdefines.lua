@@ -1,7 +1,7 @@
 ---Optimization and Graphics
 NDefines.NGame.DAYS_BEHIND_PAUSE = 90
 NDefines.NGame.DAYS_BEHIND_LOWER_SPEED = 45
-NDefines.NEngine.EVENT_PROCESS_OFFSET = 30
+NDefines.NEngine.EVENT_PROCESS_OFFSET = 35
 NDefines.NGraphics.CAPITAL_INDICATOR_HEIGHT_SCALE = 100.0
 NDefines.NGraphics.CAPITAL_INDICATOR_HEIGHT = 0
 NDefines.NGraphics.BORDER_WIDTH = 1
