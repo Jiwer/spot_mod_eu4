@@ -26,6 +26,8 @@ feudalism = {
 	history = {
 		is_year = 1000
 		OR = {
+			owner = { technology_group = sub_saharan }
+			owner = { technology_group = central_african }
 			AND = { #If this is changed costs for Nation Designer may also need to be changed.
 				OR = {
 					continent = new_world
@@ -102,7 +104,6 @@ feudalism = {
 					technology_group = mesoamerican
 					technology_group = north_american
 					technology_group = south_american
-					technology_group = sub_saharan
 				}
 			}
 			AND = {
