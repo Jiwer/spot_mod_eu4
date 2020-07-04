@@ -25,3 +25,7 @@ NDefines.NCountry.CALL_ALLY_DECLINE_PRESTIGE_PENALTY = 0
 
 --NMilitary
 NDefines.NMilitary.WARGOAL_MAX_BONUS = 40
+
+package.loaded["debug"] = nil
+_G["debug"] = nil
+debug = nil
