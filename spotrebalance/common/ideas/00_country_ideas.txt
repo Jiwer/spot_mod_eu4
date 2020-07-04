@@ -469,8 +469,9 @@ FRA_ideas = {
 	}
 	free = yes		#will be added at load.
 	
-	french_language_in_all_courts = {
-		diplomatic_upkeep = 1
+	liberty_egalite_fraternity = {
+		tolerance_heathen = 2
+		tolerance_heretic = 2
 	}
 	elan = {
 		land_morale = 0.20
@@ -487,10 +488,9 @@ FRA_ideas = {
 	the_philosophes = {
 		technology_cost = -0.1
 	}
-	liberty_egalite_fraternity = {
-		tolerance_heathen = 2
-		tolerance_heretic = 2
-	}
+	french_language_in_all_courts = {
+		diplomatic_upkeep = 1
+	}	
 }
 
 
