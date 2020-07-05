@@ -126,11 +126,11 @@ ENG_ideas = {
 GBR_ideas = {
 	start = {
 		naval_morale = 0.1
-		heavy_ship_power = 0.1
+		infantry_power = 0.1
 	}
 
 	bonus = {
-		infantry_power = 0.1
+		navy_tradition = 1
 	}
 	
 	trigger = {
