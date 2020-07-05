@@ -470,12 +470,7 @@ prussian_republic = {
 		global_unrest = -2
 		global_autonomy = -0.075
 		republican_tradition = -0.5
-		governing_capacity_modifier = -0.5
-	}
-	
-	conditional = {
-		allow = { has_dlc = "Rights of Man" }
-		militarised_society = yes
+		governing_capacity_modifier = -0.2
 	}
 	
 	custom_attributes = {
@@ -1883,12 +1878,7 @@ prussian_monarchy_legacy = {
 		global_autonomy = -0.075
 		max_absolutism = 10
 		monarch_military_power = 3
-		governing_capacity_modifier = -0.5
-	}
-
-	conditional = {
-		allow = { has_dlc = "Rights of Man" }
-		militarised_society = yes
+		governing_capacity_modifier = -0.2
 	}
 
 	ai = {
