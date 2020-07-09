@@ -292,7 +292,7 @@ RUS_ideas = {
 SPA_ideas = {
 	start = {
 		land_morale = 0.15
-		artillery_fire = 1
+		artillery_power = 0.1
 	}
 	
 	bonus = {
@@ -2326,7 +2326,7 @@ ETH_ideas = {
 	}
 	
 	bonus = {
-		legitimacy = 1
+		discipline = 0.05
 	}
 	
 	trigger = {
