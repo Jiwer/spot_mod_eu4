@@ -57,7 +57,7 @@ add_accepted_culture = slovene
 		birth_date = 1415.9.21
 		adm = 2
 		dip = 5
-		mil = 1
+		mil = 3
 	}
 	
 	clear_scripted_personalities = yes
@@ -73,7 +73,7 @@ add_accepted_culture = slovene
 		death_date = 1457.11.24
 		adm = 3
 		dip = 3
-		mil = 2
+		mil = 4
 	}
 	set_country_flag = hab_ladislaus_postumus_heir
 }
