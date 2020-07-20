@@ -292,7 +292,7 @@ RUS_ideas = {
 SPA_ideas = {
 	start = {
 		land_morale = 0.15
-		artillery_power = 0.1
+		artillery_power = 0.15
 	}
 	
 	bonus = {
@@ -1183,7 +1183,7 @@ HAB_ideas = {
 		diplomatic_upkeep = 1
 	}
 	hofkriegsrat = {
-		infantry_power = 0.10
+		reinforce_speed = 0.30
 		discipline = 0.05
 	}
 }
