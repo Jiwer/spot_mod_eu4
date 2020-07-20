@@ -51,9 +51,9 @@ change_estate_land_share = {
 	monarch = {
 		name = "Musa III"
 		dynasty = "Keita"
-		adm = 4
+		adm = 3
 		dip = 2
-		mil = 3
+		mil = 1
 	}
 }
 
