@@ -14104,7 +14104,7 @@ TUN_ideas = {
 		privateer_efficiency = 0.10
 	}
 	tun_attract_foreign_pirates = {
-		global_sailors_modifier = 0.25
+		land_morale = 0.10
 	}
 	tun_board_of_captains = {
 		leader_naval_fire = 1
