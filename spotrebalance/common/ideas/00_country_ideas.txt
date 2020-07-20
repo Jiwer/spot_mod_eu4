@@ -2322,7 +2322,7 @@ NOV_ideas = {
 ETH_ideas = {
 	start = {
 		global_autonomy = -0.05
-		land_attrition = -0.10
+		land_morale = 0.075
 	}
 	
 	bonus = {
