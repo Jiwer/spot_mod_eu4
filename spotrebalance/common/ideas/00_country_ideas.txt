@@ -1183,7 +1183,7 @@ HAB_ideas = {
 		diplomatic_upkeep = 1
 	}
 	hofkriegsrat = {
-		reinforce_speed = 0.3
+		infantry_power = 0.10
 		discipline = 0.05
 	}
 }
