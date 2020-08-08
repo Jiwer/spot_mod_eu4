@@ -6,7 +6,7 @@ culture = schlesian
 religion = catholic
 capital = "Breslau"
 trade_goods = cloth
-hre = yes
+hre = no
 base_tax = 5 
 base_production = 5
 is_city = yes 
@@ -23,6 +23,7 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
+add_claim = POL
 
 1470.1.1 = {
 	trade_goods = paper
